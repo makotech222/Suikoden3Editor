@@ -68,7 +68,7 @@ namespace Suikoden3Editor
                 character.SKLGrowth = 11;
                 character.MAGGrowth = 11;
                 character.REPGrowth = 11;
-                character.PDFGrowth = 11;
+                //character.PDFGrowth = 11;
                 character.MDFGrowth = 11;
                 character.SPDGrowth = 11;
                 character.LUKGrowth = 11;
